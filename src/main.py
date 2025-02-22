@@ -1,3 +1,3 @@
 
-def sum_two(a:int, b:str) -> int:
+def sum_two(a:int, b:str) -> str:
   return a + b 
